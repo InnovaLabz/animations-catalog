@@ -44,7 +44,7 @@
   <h2>Beats</h2>
   <div>
     <img src="https://media.giphy.com/media/Xo7a7juHmCVVYJNCWA/giphy.gif?cid=790b7611f329d1ee2b5b07845ffa50f068051e48fdd84447&rid=giphy.gif&ct=g" width="60%">
-    <img src="assets/screenshots/5_beats_2.png" width="60%">
+    <img src="./assets/screenshots/5_beats_2.png" width="60%">
   </div>
 <div>
 </p>
@@ -164,7 +164,7 @@
   <div align="center">
     <h2>Bank App</h2>
     <img src="https://media.giphy.com/media/Y3vHX9Co5pF69NcmEY/giphy.gif?cid=790b7611cc4249d8cd5b7fc4bd4287531fe4e0448dabcc37&rid=giphy.gif&ct=g" width="60%">
-    <img src="assets/screenshots/20_bank_app.webp" width="60%">
+    <img src="./assets/screenshots/20_bank_app.webp" width="60%">
   <div>
 </p>
 
