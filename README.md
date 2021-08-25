@@ -60,7 +60,7 @@
 <p>
 <div align="center">
   <h2>Unight</h2>
-  <img src="https://media.giphy.com/media/6ba8RO0kgNvRvFy8yc/giphy.gif?cid=790b76112c1752f1d3c60f5f43b163150903f0fd4755b2c8&rid=giphy.gif&ct=g" width="70%">
+  <img src="https://media.giphy.com/media/6ba8RO0kgNvRvFy8yc/giphy.gif?cid=790b76112c1752f1d3c60f5f43b163150903f0fd4755b2c8&rid=giphy.gif&ct=g" width="60%">
   <img src="https://media.giphy.com/media/wT1s4CLlXCFFO2nPr8/giphy.gif?cid=790b76113bb69f08b9e2748b35035d6d8aa37877ba6ae667&rid=giphy.gif&ct=g" width="60%">
 <div>
 </p>
