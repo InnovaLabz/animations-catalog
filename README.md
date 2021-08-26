@@ -82,7 +82,7 @@
 <p>
 <div align="center">
   <h2>Trading</h2>
-  <img src="https://media.giphy.com/media/R7MaOYRi7cDUiuCWIS/giphy.gif?cid=790b7611e5e88366b4cc8937031c5c79b28fd91433433466&rid=giphy.gif&ct=g" width="60%">
+  <img src="https://media.giphy.com/media/FEaaRTsTdxMVqk687j/giphy.gif?cid=790b7611eec7ce6b4ade87eed19dfae30ea7a3a876b923f4&rid=giphy.gif&ct=g" width="60%">
 <div>
 </p>
 
