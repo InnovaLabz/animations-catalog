@@ -2,11 +2,6 @@
   Animations Catalog
 </h1>
 
-
-<h2 align="center">
-  Inspired By <a href="https://dribbble.com/mironcatalin/collections/443324-LearningByDoing" target="_blank">LearnByDoing</a>
-</h2>
-
 <p align="center">
     The goal of this project is to catalog and build multiple animation patterns with flutter.
 </p>
